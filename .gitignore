@@ -15,12 +15,10 @@ out/
 # OS files
 .DS_Store
 Thumbs.db
+appsettings.json
 
 # VS Code
 .vscode/
-
-# Rider
-.idea/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
@@ -45,5 +43,3 @@ project.fragment.lock.json
 *.sqlite
 *.sqlite3
 
-
-appsettings.json
