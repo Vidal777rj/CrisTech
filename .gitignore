@@ -1,0 +1,40 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Secrets
+secrets.json
+*.env
+
+# Entity Framework
+migrations/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+appsettings.json
+
