@@ -7,10 +7,10 @@ namespace _1_Controle_Financeiro.Models
         {
             FiltroString = filtrostring ?? "todos-todos-todos";
 
-            string[] filtros = filtrostring.Split('-');
-            CategoriaId = filtros[0];
-            DataOperacao = filtros[1];
-            TransacaoId = filtros[2];
+            string[] filtros = FiltroString.Split("-");
+            CategoriaId = filtros.Length > 0 ? filtros[0] : "todos";
+            DataOperacao = filtros.Length > 1 ? filtros[1] : "todos";
+            TransacaoId = filtros.Length > 2 ? filtros[2] : "todos";
         }
         public string? FiltroString { get; set; }
         public string? CategoriaId { get; set; }
@@ -21,12 +21,16 @@ namespace _1_Controle_Financeiro.Models
         public bool TemTransacao => TransacaoId.ToLower() != "todos";
         public bool TemDataOperacao => DataOperacao.ToLower() != "todos";
 
-        public static Dictionary<string, string> ValoresDataOperecao =>
+        public static Dictionary<string, string> ValoresDataOparecao =>
             new Dictionary<string, string>
             {
                 {"passado", "Passado"},
-                {"futuro", "Passado"},
+                {"futuro", "Futuro"},
                 {"hoje", "Hoje"},
             };
+
+        public bool EPassado => DataOperacao.ToLower() == "passado";
+        public bool EFuturo => DataOperacao.ToLower() == "futuro";
+        public bool EHoje => DataOperacao.ToLower() == "hoje";
     }
 }
