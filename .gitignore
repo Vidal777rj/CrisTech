@@ -42,4 +42,3 @@ project.fragment.lock.json
 *.db-wal
 *.sqlite
 *.sqlite3
-
