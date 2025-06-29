@@ -8,6 +8,8 @@ out/
 *.suo
 *.userosscache
 *.sln.docstates
+.appsettings.Development.json
+
 
 # Logs
 *.log
@@ -26,7 +28,8 @@ ScaffoldingReadMe.txt
 # Secrets
 secrets.json
 *.env
-
+*.sln.docstates
+*.appsettings.Development.json
 # Entity Framework
 migrations/
 

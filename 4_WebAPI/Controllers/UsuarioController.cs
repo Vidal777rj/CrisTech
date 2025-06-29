@@ -26,7 +26,6 @@ namespace _4_WebAPI.Controllers
         }
 
         [HttpGet, Route("listar/{id}")]
-        [Authorize]
         public async Task<IActionResult> ListarUsuarioPorId(int id)
         {
             var usuario = await _usuarioInterface.ListarUsuarioPorId(id);

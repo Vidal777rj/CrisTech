@@ -24,7 +24,7 @@ namespace _4_WebAPI.Services.Usuario
             {
                 if (!VerificaSeExisteEmailUsuarioRepetidos(usuarioCriacaoDTO))
                 {
-                    response.Mensagem = "Email ou Usuário já cadastrado!";
+                    response.Mensagem = "Email ou Usuï¿½rio jï¿½ cadastrado!";
                     response.Status = false;
                     return response;
                 }
@@ -42,7 +42,7 @@ namespace _4_WebAPI.Services.Usuario
                 _context.Add(usuario);
                 await _context.SaveChangesAsync();
 
-                response.Mensagem = "Usuário cadastrado com sucesso!";
+                response.Mensagem = "Usuï¿½rio cadastrado com sucesso!";
                 response.Dados = usuario;
                 return response;
             }
@@ -54,19 +54,6 @@ namespace _4_WebAPI.Services.Usuario
             }
         }
 
-        private bool VerificaSeExisteEmailUsuarioRepetidos(UsuarioCriacaoDTO usuarioCriacaoDTO)
-        {
-            var usuario = _context.Usuarios.FirstOrDefault(u => u.Email == usuarioCriacaoDTO.Email 
-                                                             || u.Usuario == usuarioCriacaoDTO.Usuario);
-            {
-                if(usuario != null)
-                {
-                    return false;
-                }
-                return true;
-            }
-        }
-
         public async Task<ResponseModel<List<UsuarioModel>>> ListarUsuarios()
         {
             ResponseModel<List<UsuarioModel>> response = new ResponseModel<List<UsuarioModel>>();
@@ -75,7 +62,6 @@ namespace _4_WebAPI.Services.Usuario
             {
                 var usuarios = await _context.Usuarios.ToListAsync();
                 response.Dados = usuarios;
-                response.Mensagem = "Usuários localizados";
                 response.Status = true;
                 return response;
             }
@@ -96,12 +82,12 @@ namespace _4_WebAPI.Services.Usuario
                 var usuario = await _context.Usuarios.FirstOrDefaultAsync(x => x.Id == id);   
                 if(usuario == null)
                 {
-                    response.Mensagem = "Usuário não localizado";
+                    response.Mensagem = "Usuï¿½rio nï¿½o localizado";
                     return response;
                 }
 
                 response.Dados = usuario;
-                response.Mensagem = $"Usuário encontrado";
+                response.Mensagem = $"Usuï¿½rio encontrado";
                 response.Status = true;
                 return response;
             }catch(Exception ex)
@@ -119,7 +105,7 @@ namespace _4_WebAPI.Services.Usuario
                 var usuarioBanco = await _context.Usuarios.FindAsync(usuarioEdicaoDTO.Id);
                 if(usuarioBanco == null)
                 {
-                    response.Mensagem = "Usuário não encontrado";
+                    response.Mensagem = "Usuï¿½rio nï¿½o encontrado";
                     return response;
                 }
                 usuarioBanco.Nome = usuarioEdicaoDTO.Nome;
@@ -129,7 +115,7 @@ namespace _4_WebAPI.Services.Usuario
                 usuarioBanco.DataAlteracao = DateTime.Now;
                 _context.Update(usuarioBanco);
                 await _context.SaveChangesAsync();
-                response.Mensagem = "Usuário atualizado com sucesso!";
+                response.Mensagem = "Usuï¿½rio atualizado com sucesso!";
                 response.Dados = usuarioBanco;
                 return response;
             }
@@ -150,11 +136,11 @@ namespace _4_WebAPI.Services.Usuario
                 var usuario = await _context.Usuarios.FindAsync(id);
                 if(usuario == null)
                 {
-                    response.Mensagem = "Usuário não encontrado";
+                    response.Mensagem = "Usuï¿½rio nï¿½o encontrado";
                     return response;
                 }
                 response.Dados = usuario;
-                response.Mensagem = "Usuário deletado com sucesso!";
+                response.Mensagem = "Usuï¿½rio deletado com sucesso!";
                 _context.Remove(usuario);
                 await _context.SaveChangesAsync();
                 return response;
@@ -176,13 +162,13 @@ namespace _4_WebAPI.Services.Usuario
                 var usuario = await _context.Usuarios.FirstOrDefaultAsync(userBanco => userBanco.Email == usuarioLoginDTO.Email);
                 if(usuario == null)
                 {
-                    response.Mensagem = "Usuário não encontrado";
+                    response.Mensagem = "Usuï¿½rio nï¿½o encontrado";
                     response.Status = false;
                     return response;
                 }
                 if(!_senhaInterface.VerificaSenhaHash(usuarioLoginDTO.Senha, usuario.SenhaHash, usuario.SenhaSalt))
                 {
-                    response.Mensagem = "Credenciais inválidas!";
+                    response.Mensagem = "Credenciais invï¿½lidas!";
                     response.Status = false;
                     return response;
                 }
@@ -192,7 +178,7 @@ namespace _4_WebAPI.Services.Usuario
                 await _context.SaveChangesAsync();
 
                 response.Dados = usuario;
-                response.Mensagem = "Usuário logado com sucesso";
+                response.Mensagem = "Usuï¿½rio logado com sucesso";
                 return response;
 
             }catch(Exception ex)
@@ -200,6 +186,19 @@ namespace _4_WebAPI.Services.Usuario
                 response.Mensagem = ex.Message;
                 response.Status = false;
                 return response;
+            }
+        }
+
+        private bool VerificaSeExisteEmailUsuarioRepetidos(UsuarioCriacaoDTO usuarioCriacaoDTO)
+        {
+            var usuario = _context.Usuarios.FirstOrDefault(u => u.Email == usuarioCriacaoDTO.Email
+                                                             || u.Usuario == usuarioCriacaoDTO.Usuario);
+            {
+                if (usuario != null)
+                {
+                    return false;
+                }
+                return true;
             }
         }
     }

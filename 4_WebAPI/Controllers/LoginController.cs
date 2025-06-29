@@ -6,7 +6,7 @@ using _4_WebAPI.Services.Usuario;
 using Microsoft.AspNetCore.Mvc;
 namespace _4_WebAPI.Controllers
 {
-    [Route("api/login")]
+    [Route("api")]
     [ApiController]
     public class LoginController : ControllerBase
     {
@@ -16,8 +16,8 @@ namespace _4_WebAPI.Controllers
             _usuarioInterface = usuarioInterface;
         }
 
-        [HttpPost("register")]
-        public async Task<IActionResult>  RegistrarUsuario(UsuarioCriacaoDTO usuarioDTO)
+        [HttpPost("login/register")]
+        public async Task<IActionResult> RegistrarUsuario(UsuarioCriacaoDTO usuarioDTO)
         {
             var usuario = await _usuarioInterface.RegistrarUsuario(usuarioDTO);
             return Ok(usuario);
