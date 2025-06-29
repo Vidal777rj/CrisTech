@@ -198,11 +198,10 @@ catch (Exception ex)
 {
     System.Console.WriteLine($"Erro: {ex.Message}");
 }
-*/
+
 //Operador ternario
 int idade = 2;
-
 string mensagem = idade >= 10 ? "Pode dirigir" : "Não pode dirigir";
 System.Console.WriteLine(mensagem);
-
+*/
 
