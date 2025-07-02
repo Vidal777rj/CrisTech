@@ -3,40 +3,65 @@
   "WorkspaceRootPath": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\views\\home\\listarusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\data\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:data\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\service\\sessao\\isessaointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\service\\sessao\\sessaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\views\\home\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\http_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\services\\usuario\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:services\\usuario\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\dtos\\usuario\\usuarioedicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:dtos\\usuario\\usuarioedicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\dtos\\login\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:dtos\\login\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\dtos\\usuario\\usuariocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\dtos\\usuario\\usuariocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:dtos\\usuario\\usuariocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\dtos\\login\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\4_webapi\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F78D3-812A-40CF-8221-9BE2F63BCFFF}|4_WebAPI.csproj|solutionrelative:models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C08FBA-507A-464E-9BA4-9F7FEB93C042}|..\\Http_Client\\Http_Client.csproj|c:\\users\\miche\\music\\programa\u00E7\u00E3o\\cristech\\http_client\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +71,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,119 +83,249 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:23:18.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUsuarioInterface.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Services\\Usuario\\IUsuarioInterface.cs",
-              "RelativeDocumentMoniker": "Services\\Usuario\\IUsuarioInterface.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Services\\Usuario\\IUsuarioInterface.cs",
-              "RelativeToolTip": "Services\\Usuario\\IUsuarioInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:23:06.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Services\\Usuario\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Services\\Usuario\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Services\\Usuario\\UsuarioService.cs",
-              "RelativeToolTip": "Services\\Usuario\\UsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:23:05.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Data\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "Data\\ResponseModel.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Data\\ResponseModel.cs",
-              "RelativeToolTip": "Data\\ResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:22:46.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:22:45.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioEdicaoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\DTOs\\Usuario\\UsuarioEdicaoDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\Usuario\\UsuarioEdicaoDTO.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\DTOs\\Usuario\\UsuarioEdicaoDTO.cs",
-              "RelativeToolTip": "DTOs\\Usuario\\UsuarioEdicaoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:17:24.898Z",
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Home\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Views\\Home\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Home\\Registrar.cshtml",
+              "RelativeToolTip": "..\\Http_Client\\Views\\Home\\Registrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T23:15:36.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UsuarioLoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\DTOs\\Login\\UsuarioLoginDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\Login\\UsuarioLoginDTO.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\DTOs\\Login\\UsuarioLoginDTO.cs",
-              "RelativeToolTip": "DTOs\\Login\\UsuarioLoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:17:19.851Z",
+              "Title": "Http_Client",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Http_Client.csproj",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Http_Client.csproj",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Http_Client.csproj",
+              "RelativeToolTip": "..\\Http_Client\\Http_Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T23:00:34.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAzwDEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ISessaoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Service\\Sessao\\ISessaoInterface.cs",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Service\\Sessao\\ISessaoInterface.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Service\\Sessao\\ISessaoInterface.cs",
+              "RelativeToolTip": "..\\Http_Client\\Service\\Sessao\\ISessaoInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:15:34.03Z",
+              "WhenOpened": "2025-06-29T22:31:39.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessaoService.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Service\\Sessao\\SessaoService.cs",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Service\\Sessao\\SessaoService.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Service\\Sessao\\SessaoService.cs",
+              "RelativeToolTip": "..\\Http_Client\\Service\\Sessao\\SessaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:31:28.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Controllers\\LoginController.cs*",
-              "RelativeToolTip": "Controllers\\LoginController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Title": "ListarUsuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Home\\ListarUsuarios.cshtml",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Views\\Home\\ListarUsuarios.cshtml",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Home\\ListarUsuarios.cshtml",
+              "RelativeToolTip": "..\\Http_Client\\Views\\Home\\ListarUsuarios.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T22:15:52.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Http_Client\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAApwDYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:14:39.133Z",
+              "WhenOpened": "2025-06-29T19:11:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:06:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:06:12.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioCriacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\DTOs\\Usuario\\UsuarioCriacaoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Usuario\\UsuarioCriacaoDTO.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\DTOs\\Usuario\\UsuarioCriacaoDTO.cs",
+              "RelativeToolTip": "DTOs\\Usuario\\UsuarioCriacaoDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:53:21.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioCriacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\DTOs\\Usuario\\UsuarioCriacaoDTO.cs",
+              "RelativeDocumentMoniker": "..\\Http_Client\\DTOs\\Usuario\\UsuarioCriacaoDTO.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\DTOs\\Usuario\\UsuarioCriacaoDTO.cs",
+              "RelativeToolTip": "..\\Http_Client\\DTOs\\Usuario\\UsuarioCriacaoDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:53:09.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\DTOs\\Login\\UsuarioLoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\Http_Client\\DTOs\\Login\\UsuarioLoginDTO.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\DTOs\\Login\\UsuarioLoginDTO.cs",
+              "RelativeToolTip": "..\\Http_Client\\DTOs\\Login\\UsuarioLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:28:34.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\4_WebAPI\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:09:32.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "..\\Http_Client\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:09:18.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "..\\Http_Client\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:06:05.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\Http_Client\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T17:57:00.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "..\\Http_Client\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T17:53:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "..\\Http_Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T17:52:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "..\\Http_Client\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-29T17:47:41.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Http_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\miche\\Music\\Programa\u00E7\u00E3o\\CrisTech\\Http_Client\\Program.cs",
+              "RelativeToolTip": "..\\Http_Client\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:45:01.09Z",
               "EditorCaption": ""
             }
           ]

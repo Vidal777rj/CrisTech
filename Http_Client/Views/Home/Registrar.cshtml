@@ -1,0 +1,36 @@
+﻿@using Http_Client.DTOs.Usuario
+@model UsuarioCriacaoDTO
+
+<div asp-validation-summary="All" class="text-danger"></div>
+<h1 class="text-center">Cadastro de Usuários</h1>
+<div class="container mt-1">
+    <form asp-action="Registrar" asp-asp-controller="Home" method="post">
+        <div class="mb-1">
+            <label class="form-label">Email:</label>
+            <input class="form-control" type="email" asp-for="Email" />
+        </div>
+        <div class="mb-1">
+            <label class="form-label">Usuário:</label>
+            <input class="form-control" type="text" asp-for="Usuario" />
+        </div>
+        <div class="mb-1">
+            <label class="form-label">Nome:</label>
+            <input class="form-control" type="text" asp-for="Nome" />
+        </div>
+        <div class="mb-1">
+            <label class="form-label">Sobrenome:</label>
+            <input class="form-control" type="text" asp-for="Sobrenome" />
+        </div>
+        <div class="mb-1">
+            <label class="form-label">Senha:</label>
+            <input class="form-control" type="password" asp-for="Senha" />
+        </div>
+        <div class="mb-1">
+            <label class="form-label">Confimação de Senha:</label>
+            <input class="form-control" type="password" asp-for="ConfirmaSenha" />
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100 mb-1">Entrar</button>
+        <a asp-action="Login" asp-controller="Home" class="btn btn-secondary w-100">Login</a>
+    </form>
+</div>
